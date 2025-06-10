@@ -1,5 +1,5 @@
 # swe492
-This project is a continuation and enhancement of the previously developed Learning Management System (LMS) dashboard from SWE491. The upgraded version introduces new functionalities aimed at improving user interactivity, feedback mechanisms, and system intelligence. Building on the existing core system—which includes a suggestion page, course enrollment, exam timetables, and messaging—the Phase II version brings two major additions: a Chatbot system and an Activity Analysis Review page.
+This project is a continuation and enhancement of the previously developed Learning Management System (LMS) dashboard from SWE491. The upgraded version introduces new functionalities aimed at improving user interactivity, feedback mechanisms, and system intelligence. Building on the existing core system—which includes a suggestion page, course enrollment, exam timetables, and messaging—the Phase II version brings two major additions: a Chatbot system and an User Activity Analysis Review page.
 
 The chatbot feature is designed to provide real-time assistance to users navigating the LMS. It can respond to frequently asked questions related to exam schedules, registration issues, technical support, and other common student inquiries. This addition significantly enhances user experience and minimizes delays in resolving routine problems.
 
