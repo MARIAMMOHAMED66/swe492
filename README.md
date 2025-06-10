@@ -7,6 +7,10 @@ The Activity Analysis Review page is another key enhancement in this phase. It p
 
 The system continues to be developed using PHP, HTML, CSS, JavaScript, and Bootstrap for the frontend, and MySQL for the database. It is hosted using XAMPP, ensuring a local development environment that is easy to manage.
 
-To execute the project, first ensure that required tools like PHP, MySQL, XAMPP, and optionally Node.js are installed. Download or clone the project files into your working directory. Set up the MySQL database using phpMyAdmin by importing the provided lms.sql file. Adjust the database connection settings in the backend configuration file to match your local setup. Start Apache and MySQL through the XAMPP control panel. Once the server is running, navigate to the project directory through your browser at http://localhost/project-folder/. If your chatbot or activity analysis page uses Node.js, you may need to run the backend using node app.js.
+To execute the project, first ensure that required tools like PHP, MySQL, XAMPP, and optionally Node.js are installed. Download or clone the project files into your working directory. Set up the MySQL database using phpMyAdmin by importing the provided lms.sql file. Adjust the database connection settings in the backend configuration file to match your local setup. Start Apache and MySQL through the XAMPP control panel. Once the server is running, navigate to the project directory through your browser at http://localhost:8080/projectN/login.php If your chatbot or activity analysis page uses Node.js, you may need to run the backend using node app.js
 
 This extended version maintains all existing functionalities from the original LMS dashboard and aims to create a more responsive and supportive academic platform for students and instructors alike.
+
+student dashaboard : ali@mail.com password : 123qwe
+admin dashboard : admin@admin.com password : 123123
+instructor dashboard : tom@mail.com password : 123123
