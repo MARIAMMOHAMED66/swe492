@@ -3,7 +3,7 @@ This project is a continuation and enhancement of the previously developed Learn
 
 The chatbot feature is designed to provide real-time assistance to users navigating the LMS. It can respond to frequently asked questions related to exam schedules, registration issues, technical support, and other common student inquiries. This addition significantly enhances user experience and minimizes delays in resolving routine problems.
 
-The Activity Analysis Review page is another key enhancement in this phase. It provides both students and administrators with a clear visual summary of system engagement. Metrics such as login frequency, time spent on modules, number of suggestions submitted, and participation in voting or commenting are tracked and displayed to encourage more involvement and help faculty monitor class engagement.
+The User Activity Analysis Review page is another key enhancement in this phase. It provides both students and administrators with a clear visual summary of system engagement. Metrics such as login frequency, time spent on modules, number of suggestions submitted, and participation in voting or commenting are tracked and displayed to encourage more involvement and help faculty monitor class engagement.
 
 The system continues to be developed using PHP, HTML, CSS, JavaScript, and Bootstrap for the frontend, and MySQL for the database. It is hosted using XAMPP, ensuring a local development environment that is easy to manage.
 
